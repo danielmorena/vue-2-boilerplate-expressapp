@@ -3,8 +3,9 @@
 
 vue js application + express app server.
 
-I have just added following files on [vue-2-boilerplate](https://github.com/petervmeijgaard/vue-2-boilerplate)
-> server.js for hosting the vuejs application the express app.
+I have added following files on top of [vue-2-boilerplate](https://github.com/petervmeijgaard/vue-2-boilerplate) repo.
+
+> server.js for hosting the vuejs application on the express app. This will return the vue.js app home page and will expose server side rest endpoints. Try http://localhost:3000
 
 > build/dev-server-integration.js for the deplying the vuejs dev middleware in express app. Dev server will be loaded using webpack dashboard.
 
