@@ -5,7 +5,9 @@ vue js application + express app server.
 
 I have just added following files on [vue-2-boilerplate](https://github.com/petervmeijgaard/vue-2-boilerplate)
 > server.js for hosting the vuejs application the express app.
+
 > build/dev-server-integration.js for the deplying the vuejs dev middleware in express app. Dev server will be loaded using webpack dashboard.
+
 > routes/index.js for sample server route.
 
 
